@@ -1,0 +1,16 @@
+fastapi==0.136.0
+uvicorn==0.45.0
+python-dotenv==1.2.2
+requests==2.33.1
+
+# Supabase
+supabase==2.28.3
+
+# Microsoft Auth
+msal==1.36.0
+
+# Templates (se estiver usando)
+jinja2==3.1.6
+
+# Upload/form data
+python-multipart==0.0.26
